@@ -1,0 +1,9 @@
+F:\code\WorldEditor\bin\Debug\WorldEditor.exe.config
+F:\code\WorldEditor\bin\Debug\WorldEditor.exe
+F:\code\WorldEditor\bin\Debug\WorldEditor.pdb
+F:\code\WorldEditor\obj\Debug\WorldEditor.Form1.resources
+F:\code\WorldEditor\obj\Debug\WorldEditor.Properties.Resources.resources
+F:\code\WorldEditor\obj\Debug\WorldEditor.csproj.GenerateResource.Cache
+F:\code\WorldEditor\obj\Debug\WorldEditor.exe
+F:\code\WorldEditor\obj\Debug\WorldEditor.pdb
+F:\code\WorldEditor\obj\Debug\WorldEditor.csprojResolveAssemblyReference.cache
