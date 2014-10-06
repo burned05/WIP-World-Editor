@@ -7,3 +7,12 @@ F:\code\WorldEditor\obj\Debug\WorldEditor.csproj.GenerateResource.Cache
 F:\code\WorldEditor\obj\Debug\WorldEditor.exe
 F:\code\WorldEditor\obj\Debug\WorldEditor.pdb
 F:\code\WorldEditor\obj\Debug\WorldEditor.csprojResolveAssemblyReference.cache
+C:\Users\fullsail\Desktop 3\WIP-World-Editor.git\trunk\WorldEditor\bin\Debug\WorldEditor.exe.config
+C:\Users\fullsail\Desktop 3\WIP-World-Editor.git\trunk\WorldEditor\obj\Debug\WorldEditor.exe
+C:\Users\fullsail\Desktop 3\WIP-World-Editor.git\trunk\WorldEditor\obj\Debug\WorldEditor.pdb
+C:\Users\fullsail\Desktop 3\WIP-World-Editor.git\trunk\WorldEditor\bin\Debug\WorldEditor.exe
+C:\Users\fullsail\Desktop 3\WIP-World-Editor.git\trunk\WorldEditor\bin\Debug\WorldEditor.pdb
+C:\Users\fullsail\Desktop 3\WIP-World-Editor.git\trunk\WorldEditor\obj\Debug\WorldEditor.csprojResolveAssemblyReference.cache
+C:\Users\fullsail\Desktop 3\WIP-World-Editor.git\trunk\WorldEditor\obj\Debug\WorldEditor.Form1.resources
+C:\Users\fullsail\Desktop 3\WIP-World-Editor.git\trunk\WorldEditor\obj\Debug\WorldEditor.Properties.Resources.resources
+C:\Users\fullsail\Desktop 3\WIP-World-Editor.git\trunk\WorldEditor\obj\Debug\WorldEditor.csproj.GenerateResource.Cache

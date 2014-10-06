@@ -213,5 +213,11 @@ namespace WorldEditor
             PlacedObjectListBox.SelectedIndex = selected;
             selectedItem = SI.Placed;
         }
+
+        private void ExitMenuItem_Click(object sender, EventArgs e)
+        {
+            // Exit the application.
+            this.Close();
+        }
     }
 }
